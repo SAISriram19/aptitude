@@ -1,0 +1,44 @@
+Aptitude Practice App for Tech Interviews: Documentation
+1. Introduction
+
+Purpose: Prepare users for aptitude tests in tech job interviews (e.g., Google, Amazon, Microsoft, TCS).
+Target Audience: Tech job seekers, freshers, and students aiming for software engineering roles.
+
+2. Core Features
+
+Question Bank: 600+ questions covering quantitative (probability, permutations), logical reasoning, data structures, algorithms, and coding aptitude.
+Casual Mode with Swiping: Swipe right to skip, swipe left to attempt questions. Random question display from selected categories.
+Time Tracking: Records time per question type (e.g., probability, logic). Analytics show avg. time per category.
+Solutions: Detailed explanations with tech-relevant shortcuts (e.g., algorithmic approaches).
+Offline Access: Full question bank and solutions available offline, ad-free.
+Mock Tests: Timed tests mimicking tech interview formats (e.g., 30 questions in 45 minutes).
+Bookmarking & Notes: Save tough questions; in-app scratch pad for calculations.
+Interface: Swipe-friendly casual mode, menu-based structured mode, dark mode support.
+Analytics: Time-based performance tracking, visual charts for trends, company-specific readiness.
+Updates: Regular addition of new questions and tech interview patterns.
+
+3. Technical Requirements
+
+Platforms: Android, iOS, web.
+Offline Storage: Local database for questions, solutions, and user progress.
+Analytics Engine: Tracks time per question type, generates performance reports.
+UI Framework: Material Design with swipe gestures, responsive for mobile and web.
+
+4. User Flow
+
+Home: Choose casual mode (swipe) or structured mode (categories/mock tests).
+Casual Mode: Swipe through questions, attempt or skip, view solutions post-attempt.
+Structured Mode: Select category (e.g., probability), difficulty, or timed test.
+Review: Access bookmarked questions, notes, and detailed solutions.
+Progress: View time-based analytics, avg. time per question type, and readiness.
+
+5. Future Enhancements
+
+AI Recommendations: Suggest questions based on time performance and weak areas.
+Coding Integration: Add coding aptitude challenges (e.g., pattern printing in Python).
+Video Tutorials: Short videos for complex tech-relevant topics (e.g., probability in algorithms).
+
+6. Support and Feedback
+
+In-App Feedback: Report incorrect questions or suggest improvements.
+Support: Email or in-app chat for user queries.
